@@ -44,5 +44,8 @@ public class App {
 
         int[] a = { 14, 15 };
         System.out.println(a.length);
+
+        // recursive
+        TwoNumbers.printN(10000000);
     }
 }
